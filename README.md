@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body>
+<table>
+<table border = "5">
+<tr>
+<th>Day</th>
+<th>One</th>
+<th>Two</th>
+<th>Three</th>
+<th>Four</th>
+<th>Five</th>
+<th>Six</th>
+<th>Seven</th>
+<th>Eight</th>
+<th>Nine</th>
+<th>Ten</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td>C</td>
+<td>CO</td>
+<td>Break</td>
+<td>C\Lab</td>
+<td>C\Lab</td>
+<td>C\Lab</td>
+<td>Lunch</td>
+<td>MF</td>
+<td>DBMS</td>
+<td>DS</td>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td>CO</td>
+<td>C</td>
+<td>Break</td>
+<td>DBMS</td>
+<td>MF</td>
+<td>MF</td>
+<td>Lunch</td>
+<td>DS</td>
+<td>Libray</td>
+<td>Libray</td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<td>DS</td>
+<td>C</td>
+<td>Break</td>
+<td>MF</td>
+<td>DBMS</td>
+<td>CO</td>
+<td>Lunch</td>
+<td>C\Lab</td>
+<td>C\Lab</td>
+<td>C\Lab</td>
+</tr>
+<tr>
+<td>Thursday</td>
+<td>C</td>
+<td>CO</td>
+<td>Break</td>
+<td>DBMS</td>
+<td>DS</td>
+<td>DS</td>
+<td>Lunch</td>
+<td>Pre Placement</td>
+<td>Pre Placement</td>
+<td>Pre Placement</td>
+</tr>
+<tr>
+<td>Friday</td>
+<td>DS</td>
+<td>MF</td>
+<td>Break</td>
+<td>C</td>
+<td>CO</td>
+<td>DBMS</td>
+<td>Lunch</td>
+<td>Mini Project</td>
+<td>Mini Project</td>
+<td>Mini Project</td>
+</tr>
+</table>
+</body>
+</html>oob
+===
