@@ -1,0 +1,78 @@
+<html>
+<title>TimeTable</title>
+<head>
+</head>
+
+<body>
+<table  align=center  border=3 cellspacing=3 cellpadding=4>
+       <tr><th>DAY/HOUR   </th>
+       <td>9-9.45</td>
+       <td>9.45-10.30</td>
+      <td bgcolor=grey rowspan=6 ><center><font size=6  color=black><pre>
+B
+R
+E
+A
+K</pre></center></td><font>
+       <td>10.45-11.30</td>
+       <td>11.30-12.15</td>
+       <td>12.15-1.00</td>
+      <td bgcolor=grey rowspan=6 ><center><font size=6  color=black><pre>
+B
+R
+E
+A
+K</pre></center></td><font>
+
+       <td>2-2.50</td>
+       <td>2.50-3.40</td>
+       <td>3.40-4.30</td>
+</tr>
+
+<tr><th >MONDAY</th>
+       <td align=center>D/W</td>
+       <td align=center>LIB</td>
+       <td align=center>SE</td>
+       <td align=center>JAVA</td>
+       <td align=center>OB</td>
+       <td align=center>CN</td>
+       <td colspan=2 align=center>MIN.PROJECT</td>
+
+</tr>
+<tr><th>TUESDAY</th>
+       <td align=center>OB</td>
+       <td align=center>JAVA</td>
+       <td align=center>SE</td>
+       <td align=center>CN</td>
+       <td align=center>SEM</td>
+       <td align=center>D/W</td>
+       <td colspan=2 align=center>MIN.PROJECT</td>
+</tr>
+<tr><th>WEDNESDAY</th>
+       <td align=center>OB</td>
+       <td align=center>JAVA</td>
+       <td align=center>SEM</td>
+       <td align=center>S/W</td>
+       <td align=center>LIB</td>
+       <td colspan=3 align=center>PRE.PLACEMENT</td>
+</tr>
+<tr><th>THURSDAY</th>
+       <td align=center>CN</td>
+       <td align=center>S/W</td>
+       <td align=center>JAVA</td>
+       <td align=center>STU.CLUB</td>
+       <td align=center>D/W</td>
+       <td colspan=3 align=center>LAB SESSION</td>
+
+</tr>
+<tr><th>FRIDAY</th>
+       <td align=center>CN</td>
+       <td align=center>OB</td>
+       <td colspan=3 align=center>LAB SESSION</td>
+       <td align=center>D/W</td>
+       <td align=center colspan=2>MIN.PROJECT</td>
+
+</tr>
+</table>
+</body>
+</html>
